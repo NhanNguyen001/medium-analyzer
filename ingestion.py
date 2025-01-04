@@ -14,7 +14,7 @@ load_dotenv()
 if __name__ == "__main__":
     print("Ingesting....")
     loader = TextLoader(
-        "/Users/hdb3/Working/Data-And-AI-ML/medium-analyzer/mediumblog1.txt"
+        "/Users/hdb3/Working/Data-And-AI-ML/medium-analyzer/mediumblog2.txt"
     )
     document = loader.load()
     print("Splitting...")
