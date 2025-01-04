@@ -7,7 +7,7 @@ name = "pypi"
 langchain-community = "*"
 black = "*"
 langchain-openai = "*"
-numpy = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
